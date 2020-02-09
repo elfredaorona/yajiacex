@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://megahjahz.lvxiong7zg.com/sitemap.xml
